@@ -13,6 +13,7 @@ function Header() {
                 <MenuIcon />
                 <img className="header__logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/512px-YouTube_Logo_2017.svg.png"/>
             </div>
+            
             <div className="header__input">
                 <input placeholder="Search" type="text" />
                 <SearchIcon className="header_inputButton" />   
